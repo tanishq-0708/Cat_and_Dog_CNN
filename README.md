@@ -13,8 +13,8 @@ Ready-to-run Jupyter Notebook (.ipynb) and Flask app (app.py)
 
 
 🧪 How to Run
-1. Clone the Repository
-git clone https://github.com/your-username/cat-dog-classifier.git cd cat-dog-classifier
+1. Clone the Repository https://github.com/tanishq-0708/Cat_and_Dog_CNN
+git clone https://github.com/your-username/Cat_and_Dog_CNN.git cd Cat_and_Dog_CNN
 
 Set Up a Virtual Environment (Optional but Recommended) python -m venv venv source venv/bin/activate # On Windows: venv\Scripts\activate
 
@@ -62,8 +62,7 @@ Upload pretrained model weights
 
 🤝 Contributing Feel free to fork the repository, make enhancements, and create a pull request. All contributions are welcome!
 
-🙋‍♂ Author YJais 📧 jaiswalyashraj2004@gmail.com
-
+🙋‍♂ Author Tanishq0708 email- tanishqalp23@gmail.com
 ⭐ Show Your Support If you found this project helpful, please consider starring 🌟 the repository!
 
 Let me know if you'd like it personalized with your GitHub username, LinkedIn, or actual screenshots embedded.
