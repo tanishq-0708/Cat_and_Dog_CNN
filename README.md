@@ -64,5 +64,3 @@ Upload pretrained model weights
 
 🙋‍♂ Author Tanishq0708 email- tanishqalp23@gmail.com
 ⭐ Show Your Support If you found this project helpful, please consider starring 🌟 the repository!
-
-Let me know if you'd like it personalized with your GitHub username, LinkedIn, or actual screenshots embedded.
